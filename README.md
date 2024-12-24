@@ -2,10 +2,7 @@
 I'm a hands-on technical leader, software architect and product builder that firmly believes in leading from the front, elevating my teammates and empowering those I work with to bring their full potential.
 
 ### 🧪 Right now, I'm working on...
-At the moment, I'm reconnecting with the research community and cutting-edge cybersecurity tech at [NHL Stenden's Maritime IT Security Research Group](https://github.com/NHLStenden-MITS) where I work on:
-* 🧠 Deceptive applications of generative AI in cybesecurity applications
-* 🤖 Fully automated threat intelligence and analytics
-* 🧑‍🏫 Delivery of hands-on cybersecurity workshops, interactive talks and technical demonstrations around cybersecurity (particularly around threats to/by AI-enabled systems)
+At the moment, I lead the AI research and innovation team at [BreachLock](https://breachlock.com) where I work on applications of generative AI in offensive cybersecurity.
 
 ### 📫 Want to get in touch?
 Sure thing! You can head on over to [my LinkedIn](https://www.linkedin.com/in/sauljohnson/) and send me a connection request. Let me know that GitHub sent you!
